@@ -17,3 +17,15 @@ run server python:
 `python manage.py runserver`
 2. in dir "frontend":
 `npm start`
+
+Instruction for use:
+
+In form type some task name and description and enter "save".
+
+After there you can press edit to edit (with check checkbox) and press "save".
+
+You can see it in ready column (bottom) after there..
+
+Also you can delete task..
+
+Nice use)...
